@@ -1,0 +1,180 @@
+.buy{
+    z-index: 5;
+    position: relative;
+    top: 120vh;
+    width: 100%;
+    height: 120vh;
+}
+
+.first-buy-block{
+    text-align: center;
+    margin-top: 15%;
+    margin-bottom: 20%;
+}
+
+.first-buy-block h1{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900;
+}
+
+.buy-together{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.move-buy-block{
+    background: hsla(278, 63%, 74%, 1);
+    background: linear-gradient(80deg, hsla(278, 63%, 74%, 1) 0%, hsla(357, 75%, 67%, 1) 100%);
+    background: -moz-linear-gradient(80deg, hsla(278, 63%, 74%, 1) 0%, hsla(357, 75%, 67%, 1) 100%);
+    background: -webkit-linear-gradient(80deg, hsla(278, 63%, 74%, 1) 0%, hsla(357, 75%, 67%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#C894E7", endColorstr="#EA6D73", GradientType=1 );
+    border: none;
+    height: 50px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    font-weight: 600;
+    box-shadow: rgba(255, 1, 136, 0.2) 10px 7px 29px 10px;
+}
+
+/* Second Block */
+.second-buy-block{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 25%;
+    position: relative;
+
+}
+
+.second-buy-title{
+    font-size: 56px;
+    font-weight: bolder;
+    padding-bottom: 25px;
+}
+
+.second-buy-text{
+    font-size: 18px;
+    font-weight: 400;
+    width: 550px;
+    padding-bottom: 25px;
+}
+
+.second-buy-text span{
+    font-weight: 700;
+}
+
+.second-buy-button button{
+    min-width: 144px;
+    padding: 12px 30px;
+    border-radius: 999px;
+    -webkit-transition: .3s;
+    transition: .3s;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 500;
+    text-align: center;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.second-buy-button button:hover{
+    background-color: #3d3a3a;
+}
+
+.buy-img1{
+    width: 513px;
+    height: 311.638px;
+}
+
+.buy-img2{
+    width: 192px;
+    height: 292.500px;
+    position:absolute;
+    right: 90px;
+    top: 180px;
+    background:linear-gradient(158.72deg, rgba(255, 255, 255, 0.4) 3.01%, rgba(255, 255, 255, 0) 103.3%);
+    filter: drop-shadow(0px 0px 24px rgba(69, 76, 98, 0.15));
+    backdrop-filter: blur(40px);
+    border-radius: 11.3633px;
+}
+
+/* Third Block */
+.third-buy-block{
+    display: flex;
+    margin-top: 25%;
+    justify-content: space-between;
+    margin-left: 8%;
+    margin-right: 8%;
+    position: relative;
+    padding-bottom: 120px;
+}
+
+.third-buy-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buy-img3{
+    width: 250px;
+    height: 357.500px;
+    position: absolute;
+    left: 150px;
+}
+
+.buy-img4{
+    width: 231px;
+    height: 183.600px;
+    position: absolute;
+    top: -85px;
+    left: 320px;
+    background: linear-gradient(158.72deg, rgba(255, 255, 255, 0.4) 3.01%, rgba(255, 255, 255, 0) 103.3%);
+    filter: drop-shadow(0px 0px 24px rgba(69, 76, 98, 0.15));
+    backdrop-filter: blur(40px);
+    border-radius: 11px;
+}
+
+.buy-img5{
+    width: 194px;
+    height: 246.188px;
+    position: absolute;
+    top: 180px;
+    left: 8px;
+}
+
+.third-buy-title{
+    font-size: 56px;
+    font-weight: bolder;
+    padding-bottom: 25px;
+}
+
+.third-buy-text{
+    font-size: 18px;
+    font-weight: 400;
+    width: 550px;
+    padding-bottom: 25px;
+}
+
+.third-buy-button button{
+    min-width: 144px;
+    padding: 12px 30px;
+    border-radius: 999px;
+    -webkit-transition: .3s;
+    transition: .3s;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 500;
+    text-align: center;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    margin-top: 10px;
+}

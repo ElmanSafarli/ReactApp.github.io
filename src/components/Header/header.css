@@ -1,0 +1,62 @@
+.Header{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    position: absolute;
+    width: 100%;
+    background: hsla(0, 0%, 0%, 1);
+    background: linear-gradient(360deg, hsla(0, 0%, 0%, 1) 0%, hsla(272, 30%, 22%, 1) 100%);
+    background: -moz-linear-gradient(360deg, hsla(0, 0%, 0%, 1) 0%, hsla(272, 30%, 22%, 1) 100%);
+    background: -webkit-linear-gradient(360deg, hsla(0, 0%, 0%, 1) 0%, hsla(272, 30%, 22%, 1) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#010101", endColorstr="#392749", GradientType=1 );
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.content-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#head-text-1{
+    color: #fff;
+    font-size: 4rem;
+    z-index: 1;
+    position: relative; 
+    left: -200px;
+    top: 120px;
+    font-weight: 900;
+}
+
+#head-text-2{
+    color: #fff;
+    font-size: 4rem;
+    z-index: 1;
+    position: relative; 
+    left: 300px;
+    bottom: 300px;
+    font-weight: 900;
+}
+
+#header-bg{
+   position: relative;
+   bottom: 100px;
+   height: 400px;
+   width: auto;
+   margin-top: 40px;
+}
+
+.header-text-span-2{
+    position: relative;
+    left: 100px;
+}
+
+.header-text-span-2{
+    position: relative;
+    left: 100px;
+}
