@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactApp.github.io/static/css/main.e8ff8ed1.css",
+    "main.js": "/ReactApp.github.io/static/js/main.ab169a31.js",
+    "static/media/header-img.png": "/ReactApp.github.io/static/media/header-img.8e1f4a27a1720a8a666d.png",
+    "static/media/buy-2.1.png": "/ReactApp.github.io/static/media/buy-2.1.ab57de2eb7bc63e773b0.png",
+    "static/media/buy-3.3.png": "/ReactApp.github.io/static/media/buy-3.3.47327fc3e8d062c3ca06.png",
+    "static/media/buy-3.1.png": "/ReactApp.github.io/static/media/buy-3.1.0eed15d1063318816e96.png",
+    "static/media/buy-2.2.png": "/ReactApp.github.io/static/media/buy-2.2.0ddf95c0eb5dda4290ef.png",
+    "static/media/buy-3.2.png": "/ReactApp.github.io/static/media/buy-3.2.3135759c504534822374.png",
+    "static/media/seamless.png": "/ReactApp.github.io/static/media/seamless.2106aef5cf06065a2a7d.png",
+    "static/media/quantstamp.svg": "/ReactApp.github.io/static/media/quantstamp.753775db4d8564e124850019df51c5cd.svg",
+    "static/media/solidqroup.svg": "/ReactApp.github.io/static/media/solidqroup.f061852d3a5ca3576c4deadc2b0238b3.svg",
+    "static/media/logo-nav.png": "/ReactApp.github.io/static/media/logo-nav.ed1b9deea1193a281133.png",
+    "index.html": "/ReactApp.github.io/index.html",
+    "main.e8ff8ed1.css.map": "/ReactApp.github.io/static/css/main.e8ff8ed1.css.map",
+    "main.ab169a31.js.map": "/ReactApp.github.io/static/js/main.ab169a31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8ff8ed1.css",
+    "static/js/main.ab169a31.js"
+  ]
+}
